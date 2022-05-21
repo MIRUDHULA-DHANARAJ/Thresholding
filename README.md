@@ -25,8 +25,7 @@ Apply thresholding cv2.THRESH_TRUNC on the image.
 
 ###step6:
 Apply thresholding cv2.THRESH_TOZERO on the image.
-###step7:
-Apply thresholding cv2.THRESH_TOZERO_INC on the image.
+
 ## Program
 
 ```python
