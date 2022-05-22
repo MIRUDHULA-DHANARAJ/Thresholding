@@ -23,7 +23,7 @@ Apply thresholding cv2.THRESH_BINARY_INC on the image.
 ### Step5:
 Apply thresholding cv2.THRESH_TRUNC on the image.
 
-###step6:
+### step6:
 Apply thresholding cv2.THRESH_TOZERO on the image.
 
 ## Program
