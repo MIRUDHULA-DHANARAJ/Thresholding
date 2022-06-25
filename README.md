@@ -74,8 +74,22 @@ plt.imshow(th2,cmap='gray')
 
 ### Global Thresholding
 ![output](maple2.png)
+
+![ss1](https://user-images.githubusercontent.com/94828147/175765341-249ed42c-3c9e-4670-9e20-2defcaa93a10.png)
+
+![ss2](https://user-images.githubusercontent.com/94828147/175765346-dd45628b-0296-47f6-8629-3ab73abd1289.png)
+
+![ss3](https://user-images.githubusercontent.com/94828147/175765348-34271db3-f278-428c-be08-a934daea6a51.png)
+
+![ss4](https://user-images.githubusercontent.com/94828147/175765349-7a646e02-69af-472d-97b8-cdf82b1e136d.png)
+
+![ss5](https://user-images.githubusercontent.com/94828147/175765350-7b875860-6514-481b-b2ea-0c20f10a0113.png)
+
+![ss6](https://user-images.githubusercontent.com/94828147/175765351-644ce77c-7bbd-4404-ba90-64cfd1cbadad.png)
+
 ### Adaptive Thresholding
 ![output](maple3.png)
+
 ### Optimum Global Thesholding using Otsu's Method
 ![output](maple4.png)
 
